@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# QUIZ1STALGO
-=======
-# Drink Hyphy SPA Website
+# Drink Hyphy Website
+# TEST
 
 ## Project Overview
 This project is a **Single Page Application (SPA)** website for **Drink Hyphy**, a bar and beverage startup in Angeles City, Pampanga. The website is built with **React** and uses reusable components to ensure a clean, scalable, and maintainable codebase.  
@@ -100,4 +98,4 @@ Currently, Drink Hyphy uses Linktree as their main online presence. While functi
 
 ## Author
 - [Borje, Arnold Jr. B.]  
-- [Your Contact / GitHub link if needed]  
+- [https://github.com/arnoldborje/DRINK-HYPHY]  
